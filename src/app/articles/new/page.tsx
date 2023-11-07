@@ -1,10 +1,10 @@
 "use client";
 
-import { createArticle } from "@/blogAPI";
+// import { createArticle } from "@/blogAPI";
 import { useRouter } from "next/navigation";
 import React, { useState } from "react";
 
-const createBlogPage = () => {
+const CreateBlogPage = () => {
   //投稿ボタンを押してリダイレクト
   const router = useRouter();
   const [id, setId] = useState<string>("");
@@ -83,4 +83,4 @@ const createBlogPage = () => {
   );
 };
 
-export default createBlogPage;
+export default CreateBlogPage;
