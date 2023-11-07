@@ -1,34 +1,3 @@
 {
-  "posts": [
-    {
-      "id": "created-blogsite",
-      "title": "Next.js13でBlogサイト作成",
-      "content": "udemy講師shincodeさんの教材でNext.js13を学び、Blogサイトを作成しました。udemy講師shincodeさんの教材でNext.js13を学び、Blogサイトを作成しました。udemy講師shincodeさんの教材でNext.js13を学び、Blogサイトを作成しました。udemy講師shincodeさんの教材でNext.js13を学び、Blogサイトを作成しました。udemy講師shincodeさんの教材でNext.js13を学び、Blogサイトを作成しました。udemy講師shincodeさんの教材でNext.js13を学び、Blogサイトを作成しました。",
-      "createdAt": "2023/11/04"
-    },
-    {
-      "id": "portfolio-blog",
-      "title": "Next.js学習中",
-      "content": "Next.jsの学習中。以前はreact, Node.jsを中心に学習していました。今回は、学習の幅を広げるためにNext.jsの学習を決断。ただ全体像が見えないのでなんとも言えませんが、とても楽しいです。",
-      "createdAt": "2023/11/04"
-    },
-    {
-      "id": "4Nfbok4"
-    },
-    {
-      "id": "aKhZtQj"
-    },
-    {
-      "id": "dog",
-      "title": "犬と散歩",
-      "content": "犬を飼って、散歩に行ったら幸せだろうな。",
-      "createdAt": "2023-11-05T05:03:29.891Z"
-    },
-    {
-      "id": "saba",
-      "title": "サバ缶",
-      "content": "サバ缶は体に良い",
-      "createdAt": "2023-11-05T05:09:19.619Z"
-    }
-  ]
+  "posts": []
 }
