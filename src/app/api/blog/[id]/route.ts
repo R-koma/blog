@@ -4,7 +4,6 @@ import { NextResponse } from "next/server";
 
 export async function GET(req: Request, res: Response) {
   const id = req.url.split("/blog/")[1];
-  // console.log(req.url.split("/api/"));
 
   const { data, error } = await supabase
     .from("posts")
@@ -24,7 +23,6 @@ export async function GET(req: Request, res: Response) {
 }
 export async function DELETE(req: Request, res: Response) {
   const id = req.url.split("/blog/")[1];
-  // console.log(req.url.split("/api/"));
 
   const { error: deleteError } = await supabase
     .from("posts")
